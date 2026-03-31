@@ -59,7 +59,7 @@ Scripts développés en autonomie en dehors de freeCodeCamp :
 
 ## Objectif
 
-Obtenir la certification JavaScript de freeCodeCamp, puis formaliser ces compétences dans le cadre d'un apprentissage informaticien CFC orientation Développement d'applications.
+Obtenir la certification JavaScript de freeCodeCamp, puis appliquer ces connaissances, dans le cadre de l'apprentissage du développement web, avec des framework Angular et Express.js.
 
 ---
 
